@@ -1,4 +1,4 @@
-# AquaMine — Data Mining & Predictive Analytics Lab
+# AquaMine — Groundwater Quality Analysis and Contamination Prediction System
 
 An integrated Streamlit web application containing:
 
