@@ -3,12 +3,7 @@
 An integrated Streamlit web application containing:
 
 * **Main project – Water Quality / Groundwater Contamination Prediction**
-* **12 lab exercises** – Normal curve, Contour plot, Histogram, Scatter plot, 3D plot, Decision Tree,
-  Loan-default prediction with Random Forest, Naive Bayes, SVM, PCA / LDA / PCR, Customer grouping with
-  K-Means, Multiple Linear Regression.
-
-Every page follows the lab-record layout **Aim → Theory/Algorithm → Output → Result**, every chart has a
-*Download PNG* button and every dataset / prediction table a *Download CSV* button.
+Implemented data mining techniques and visualizations, including Normal Curve, Contour Plot, Histogram, Scatter Plot, 3D Plot, Decision Tree, Random Forest for Loan Default Prediction, Naive Bayes, Support Vector Machine (SVM), PCA, LDA, PCR, K-Means Clustering for Customer Segmentation, and Multiple Linear Regression.
 
 ---
 
